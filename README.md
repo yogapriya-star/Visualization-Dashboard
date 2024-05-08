@@ -11,7 +11,8 @@ The dataset used for this assignment using Data.csv file
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Important Variables are Visualized](#important-variables-are-visualized)
+- [Filters in the Dashboard](#filters-in-the-dashboard)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
