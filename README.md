@@ -39,15 +39,21 @@ The dataset used for this assignment using Data.csv file
 - Country
 - Topics
 - Region
-- 
+- City
+
+## Filters in the Dashboard
+
+- Sector
+- Start Year
+- End Year
+- Country
+- Topics
+- City  
 
 ## Usage
 
-1. Home Page:
-  - Join the group chat by giving the unique name and chat Id
-
-1. Chat Page:
-  - Once enter it to the room, you can exchange messages with the administrator in real-time
+  - Interactive graphs, charts, and visuals are used to enhance user experience.
+  - All visualizations are based solely on the provided dataset.
 
 ## Contributing
 Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
